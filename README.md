@@ -1,1 +1,1 @@
-# prototype-53-cm
+# mycasa-3.0-template
